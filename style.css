@@ -1,0 +1,106 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+    font-size: 65px;
+}
+
+#header-first{
+    color: #363958;
+    
+}
+#header-second{
+    color: #ff876c;
+    
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 25px 45px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+    padding-top: 10px;
+    
+}
+#first-paragraph{
+    color: rgb(29, 28, 28)
+    
+    
+}
+
+h2{
+    font-size: 50px;
+}
+.about{
+    margin-top: 100px;
+    color: rgb(49, 22, 22);
+}
+
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+#work{
+
+
+}
+.one-third{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+
+}
+.one-third img{
+    width: 100%;
+}
+#latest-color{
+    color: #f46161;
+}
+#pr{
+    color: #363958;
+}
+#lw{
+    text-align: center;
+}
+.my-work{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 5px;
+}
+.work{
+    background-color: #f8f9fc;
+}
+#center {
+    text-align: center;
+}
+.work-Inq section{
+    height: 500px;
+}
+.work-Inq{
+    background-image: url("images/wbg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+.align{
+
+    width: 20%;
+    float: left;
+    margin-left: 20%;
+    padding-left: 5%;
+    
+
+}
+  
+  
